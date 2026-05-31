@@ -1,7 +1,7 @@
 // Weather Dashboard JavaScript
 
 // API Configuration
-const API_KEY = 'YOUR_OPENWEATHER_API_KEY'; // Get from https://openweathermap.org/api
+const API_KEY = 'fdd1d4728994c5710b91ddf00afa5684'; // Get from https://openweathermap.org/api
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 const GEO_URL = 'https://api.openweathermap.org/geo/1.0';
 
